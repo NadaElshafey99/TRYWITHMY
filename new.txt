@@ -2,5 +2,6 @@ New Text
 HelloITI
 Hello GitHub
 Hello there.
-New Try
-Pull Git
+Try With me
+Git PULL
+
